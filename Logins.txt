@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 Iniciando pedido de Usuario>>
 Usuario: "Digite seu usuario aqui"
 
-=======
 Iniciando pedido de senha>>>
 Senha: "Digite sua senha aqui"
->>>>>>> origin/Login
