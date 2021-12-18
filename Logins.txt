@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Iniciar pedido se senha do usuario>>>
 Digite sua senha: |Senha|
+=======
+Iniciando pedido de senha>>
+Senha: "Digite sua senha aqui"
+>>>>>>> origin/Login
