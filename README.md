@@ -14,3 +14,4 @@ GitHub ok:
 ![MergingMain-Login](https://user-images.githubusercontent.com/54410732/146658950-880d58fa-dc83-4774-b1f9-ec289cb975dc.jpg)
 
 Escolhendo as duas versões:
+![AceitaAsDuasAtualizacoes](https://user-images.githubusercontent.com/54410732/146659049-8b82c8ad-4abb-41ac-b5a7-1f342afebe8c.jpg)
