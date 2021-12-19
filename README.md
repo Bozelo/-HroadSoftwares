@@ -15,3 +15,6 @@ GitHub ok:
 
 Escolhendo as duas versões:
 ![AceitaAsDuasAtualizacoes](https://user-images.githubusercontent.com/54410732/146659049-8b82c8ad-4abb-41ac-b5a7-1f342afebe8c.jpg)
+
+GitHub ok:
+
